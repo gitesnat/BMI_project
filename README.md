@@ -9,6 +9,9 @@ Program oblicza, przechowuje, oraz wizualizuje wartości BMI na podstawie danych
 
  Obecnie BMI jest szeroko stosowane, ale ma swoje ograniczenia, ponieważ nie uwzględnia innych czynników, takich jak proporcje masy mięśniowej do tłuszczowej czy dystrybucja tłuszczu w organizmie. Dlatego często sportowcy, czy kulturyści mają według wskażnika BMI nadwagę, a osoby z prawidłowym wskażnikiem masy ciała, mogą mieć za duży udział tkanki tłuszczowej w organiżmie (np termin skinny fat). Pomimo tego nadal jest używane jako jedno z narzędzi do oceny masy ciała i ryzyka związanego z otyłością.
 
+ W związku z brakiem uwzględniania wielu czynników, choć BMI jest użyteczne jako ogólne narzędzie do szybkiej oceny masy ciała, zaleca się łączenie go z innymi miarami, takimi jak obwód talii, procent tkanki tłuszczowej, czy ocena ogólnej kondycji fizycznej, aby uzyskać pełniejszy obraz zdrowia jednostki. Warto także konsultować się z lekarzem lub specjalistą ds. żywienia w celu uzyskania bardziej spersonalizowanych informacji na temat zdrowia i masy ciała.
+
+
 Wykonali:
 Amelia Mikulska 
 Kamil Koperkiewicz
