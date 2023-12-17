@@ -20,8 +20,6 @@ def bmicharts():
     daneGotowe["bmi"].append(float(item[3]))
   dataFrame =  pd.DataFrame.from_dict(data=daneGotowe)
   dataFrame = dataFrame.sort_values(by=["wzrost"], ascending=False)
-  print(dataFrame)
-
   sns.set_theme()
   sns.relplot(
   data=dataFrame,
